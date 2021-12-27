@@ -8,7 +8,7 @@
     "version_regex": "v(\\d+\\.\\d+\\.?\\d*)-(ls\\d+)"
   },
   "description": "Usenet downloader",
-  "url": "https://github.com/antonarntz/homeassistant/tree/master/nzbget#readme",
+  "url": "https://github.com/antonarntz/homeassistant/tree/main/nzbget#readme",
   "startup": "services",
   "arch": [
     "aarch64",
