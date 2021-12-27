@@ -38,5 +38,5 @@
     "PGID": "int",
     "TZ": "str?"
   },
-  "image": "antonarntz/homeassistant-nzbget-{arch}"
+  "image": "petersendev/homeassistant-nzbget-{arch}"
 }
